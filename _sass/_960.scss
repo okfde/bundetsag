@@ -1,0 +1,110 @@
+
+.format__illustration{
+	padding: 20%;
+}
+
+
+.title {
+
+  p {
+    font-size: 20px;
+    line-height: 1.5;
+    padding-bottom: 50px;
+  }
+}
+
+
+.format__point_one{
+  width: 52%;
+  z-index: 1;
+}
+
+
+
+.format__point_one{
+  width: 60%;
+}
+
+
+.format__point_two{
+  margin-top: -10%;
+  width: 60%;
+  margin-left: 48%;
+}
+
+
+.format__point_three{
+  margin-top: -5%;
+  width: 60%;
+}
+
+.format__point_four{
+  margin-top: -5%;
+  width: 60%;
+  margin-left: 48%;
+
+}
+
+.format__point_five{
+  margin-top: -5%;
+  width: 60%;
+}
+
+.format__illustration-wrapper{
+  text-align: right;
+}
+
+
+
+.format__statement{
+  padding: 0px 60px 40px 60px;
+
+}
+
+
+
+.members {
+  line-height: 26px;
+  font-size: 20px;
+  text-align: left;
+
+  .member {
+    margin-bottom: 26px;
+    min-width: 100%;
+    display: block;
+    float: center;
+
+  }
+
+  .member-avatar {
+    margin: 60px auto 10px auto;
+    width: 240px;
+    height: 240px;
+  }
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("/static/img/fg.png");
+  /* Set a specific height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center 8em;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.footer
+{
+  p {
+    font-size: 20px;
+  }
+}
+
+.title {
+  p{
+    font-size: 20px;
+
+  }
+}
