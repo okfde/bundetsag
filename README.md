@@ -1,5 +1,33 @@
 
 # bundetsag.de
+Eine Website, die Forderungen für eine transparentere und besser nutzbare Website bundestag.de sammelt. Bitte ergänzen!
+
+## Mögliche Forderungen
+
+### Offene Schnittstellen für Daten und Dokumente
+- das Dokumentensystem Dip21
+- XML-Version des DIP-Extrakt, mit vollständigen Angaben der beteiligten MdBs
+- XML-Version der Plenarprotokolle
+- APIs zu MdB-Profilen, Gremien und aktuellen Meldungen, Abstimmungen
+- Maschinenlesbare Tagesordnungen des Plenums mit Links zu den Videos
+- Angaben zur Parteienfinanzierung und Großspenden an Parteien als Tabelle (CSV)
+- Maschinenlesbare Tagesordnungen der einzelnen Ausschüsse und Unterausschüsse
+
+### Suchfunktion
+
+### Öffnung historischer Daten
+- Plenarprotokolle
+- Metadaten der retrodigitalisierten Dokumente 8.-18. WP
+
+### Daten über die konkrete Arbeit von Abgeordneten
+- Biografie ✔
+- Themenschwerpunkte
+- Telefonnummern im Bundestag
+- Aktivitäten bei Twitter und Facebook
+- Nebenverdienste &amp; Nebentätigkeiten
+- Abstimmungsverhalten ✔
+- Reden in einem maschienenlesbaren Format
+- Mitgliedschaft in Ausschüssen (ständigen Ausschüssen, Vermittlungsausschuss, Gemeinsamer Ausschuss, Untersuchungsausschüssen)
 
 
 ## Setup
