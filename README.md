@@ -29,6 +29,13 @@ Eine Website, die Forderungen für eine transparentere und besser nutzbare Websi
 - Reden in einem maschienenlesbaren Format
 - Mitgliedschaft in Ausschüssen (ständigen Ausschüssen, Vermittlungsausschuss, Gemeinsamer Ausschuss, Untersuchungsausschüssen)
 
+### MISC
+- nicht nur PDFs, auch Originaldateien
+- Bundestags-Dokumentation muss sich öffnen (alles als Open Data, was dort rumschwirrt)
+- Rückmeldungen, Nutzerfeedback
+- Community einbinden
+- Code auf Github
+
 
 ## Setup
 
