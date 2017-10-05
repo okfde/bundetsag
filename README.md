@@ -25,9 +25,9 @@ Eine Website, die Forderungen für eine transparentere und besser nutzbare Websi
 - Telefonnummern im Bundestag
 - Aktivitäten bei Twitter und Facebook
 - Nebenverdienste &amp; Nebentätigkeiten
-- Abstimmungsverhalten ✔
-- Reden in einem maschienenlesbaren Format
+- Abstimmungsverhalten
 - Mitgliedschaft in Ausschüssen (ständigen Ausschüssen, Vermittlungsausschuss, Gemeinsamer Ausschuss, Untersuchungsausschüssen)
+- Anwesenheit in Ausschusssitzungen, Bundestagssitzungen
 
 ### MISC
 - nicht nur PDFs, auch Originaldateien
@@ -35,6 +35,7 @@ Eine Website, die Forderungen für eine transparentere und besser nutzbare Websi
 - Rückmeldungen, Nutzerfeedback
 - Community einbinden
 - Code auf Github
+- Verbandsregister in maschinenlesbar
 
 
 ## Setup
