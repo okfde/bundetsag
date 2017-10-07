@@ -12,6 +12,7 @@ Eine Website, die Forderungen für eine transparentere und besser nutzbare Websi
 - Maschinenlesbare Tagesordnungen des Plenums mit Links zu den Videos
 - Angaben zur Parteienfinanzierung und Großspenden an Parteien als Tabelle (CSV)
 - Maschinenlesbare Tagesordnungen der einzelnen Ausschüsse und Unterausschüsse
+- OParl (deckt einige der anderen Anforderungen ab)
 
 ### Suchfunktion
 
