@@ -12,9 +12,15 @@ Eine Website, die Forderungen für eine transparentere und besser nutzbare Websi
 - Maschinenlesbare Tagesordnungen des Plenums mit Links zu den Videos
 - Angaben zur Parteienfinanzierung und Großspenden an Parteien als Tabelle (CSV)
 - Maschinenlesbare Tagesordnungen der einzelnen Ausschüsse und Unterausschüsse
+- Maschinenlesbare Nebentätigkeiten von Abgeordneten
+- Daten aus Rechenschaftsberichten der Parteien als Open Data
 - OParl (deckt einige der anderen Anforderungen ab)
 
 ### Suchfunktion
+- Highlighting von Suchergebnissen in Such-Previews
+- Filterung bei Nebeneinkünften
+
+### [Öffentliche Parlamentsausschüsse](http://www.spiegel.de/politik/deutschland/claudia-roth-will-bundestagsausschuesse-oeffentlich-machen-a-1174995.html)
 
 ### Öffnung historischer Daten
 - Plenarprotokolle
